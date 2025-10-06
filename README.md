@@ -39,3 +39,4 @@ Let's connect and build something amazing! 🚀
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afthal-ahamad01&" alt="afthal-ahamad01" /></p>
 
 
+[![An image of @afthalahamad01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/afthalahamad01)](https://holopin.io/@afthalahamad01)
