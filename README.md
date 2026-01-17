@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Afthal</h1>
+<h1 align="center">Hello , I'm Afthal</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afthal-ahamad01&label=Profile%20views&color=0e75b6&style=flat" alt="afthal-ahamad01" /> </p>
@@ -8,14 +8,14 @@
 Hi there! I'm an IT undergraduate passionate about software development, backend engineering, and web technologies. Currently exploring **C++, .NET, SQL, React, Node.js, and MongoDB**.  
 
 🔹 Learning **backend development, AI, and image processing**  
-🔹🌱 Exploring **GitHub, open-source, and project management**  
-🔹 Video editor & tech enthusiast 🎬💻  
+🔹 Exploring **GitHub, open-source, and project management**  
+🔹 Video editor & tech enthusiast   
 
-Let's connect and build something amazing! 🚀  
+Let's connect and build something amazing!   
 
-- 🔭 I’m currently reading Bsc IT **at Rajarata University of Sri-Lanka**
+-  I’m currently reading Bsc IT **at Rajarata University of Sri-Lanka**
 
-- 👯 I am passionate about contributing to open-source projects and actively looking to contribute to GSoC (Google Summer of Code).
+-  I am passionate about contributing to open-source projects and actively looking to contribute to GSoC (Google Summer of Code).
 
 - 👨‍💻 All of my projects are available at [https://afthal-ahamad01.github.io/my_portfolio/](https://afthal-ahamad01.github.io/my_portfolio/)
 
