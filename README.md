@@ -12,6 +12,7 @@ I’m an IT undergraduate with hands-on experience in building **production-read
 I enjoy writing clean code, designing databases, and developing user-friendly interfaces.
 
 - 🔹 Experience with **Java, SQL, React, PHP, and SQLite**
+- 🔹 Experience with **Python and Machine Learning fundamentals**
 - 🔹 Developed multiple **full-stack applications**
 - 🔹 Hosted and maintained **3+ real-world projects** used in practice
 - 🔹 Comfortable working across **frontend, backend, and databases**
@@ -21,6 +22,13 @@ I enjoy writing clean code, designing databases, and developing user-friendly in
 ---
 
 ### 🛠️ Core Skills
+
+**AI / Machine Learning** 
+
+**Python**
+- Machine Learning Fundamentals
+- NumPy, Pandas 
+- Scikit-learn 
 
 **Languages & Databases**
 - Java
