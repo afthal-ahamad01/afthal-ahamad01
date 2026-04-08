@@ -5,13 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=afthal-ahamad01&label=Profile%20views&color=0e75b6&style=flat" alt="afthal-ahamad01" />
 </p>
 
-## 3D Contribution Calendar
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</div>
-
----
 
 ### 👨‍💻 About Me
 I’m an IT undergraduate with hands-on experience in building **production-ready web applications** and working on **real-world projects during internships**.  
@@ -54,7 +48,15 @@ I enjoy writing clean code, designing databases, and developing user-friendly in
 ---
 
 ### 🌐 Portfolio
-👨‍💻 https://afthal-ahamad01.github.io/my_portfolio/
+👨‍💻 https://afthalahamad.vercel.app/
+
+---
+
+## 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</div>
 
 ---
 
