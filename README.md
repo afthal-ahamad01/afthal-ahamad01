@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=afthal-ahamad01&label=Profile%20views&color=0e75b6&style=flat" alt="afthal-ahamad01" />
 </p>
 
+## 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+</div>
+
 ---
 
 ### 👨‍💻 About Me
